@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Las descargas atmosféricas, también conocidas como rayos, son eventos naturales de gran importancia y riesgo, especialmente en regiones con alta actividad eléctrica como Paraguay. Este proyecto se centra en la recopilación, análisis y predicción de descargas atmosféricas utilizando datos históricos proporcionados por [https://www.meteorologia.gov.py/].
+Las descargas atmosféricas, también conocidas como rayos, son eventos naturales de gran importancia y riesgo, especialmente en regiones con alta actividad eléctrica como Paraguay. Este proyecto se centra en la recopilación, análisis y predicción de descargas atmosféricas.
 
 Email: migomez@fiuna.edu.py <br>
 
